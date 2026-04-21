@@ -103,12 +103,12 @@ Your working directory ends up looking like this:
 my-job-search/
   context.md                    ← long-form you
   .venv/                        ← local Python + Playwright (one-time)
-  ClearBank_Director_of_Engineering/
-    ClearBank_Director_of_Engineering.html
-    ClearBank_Director_of_Engineering.pdf
-  Google_Cloud_OCE_Manager/
-    Google_Cloud_OCE_Manager.html
-    Google_Cloud_OCE_Manager.pdf
+  ClearBank_HR_Director/
+    ClearBank_HR_Director.html
+    ClearBank_HR_Director.pdf
+  Google_HRBP/
+    Google_HRBP.html
+    Google_HRBP.pdf
   ...
 ```
 
