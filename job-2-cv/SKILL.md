@@ -23,12 +23,12 @@ Each tailored CV lives in its own subfolder `<Company>_<Role>/` inside the cwd, 
 cwd/
   context.md
   .venv/
-  ClearBank_Director_of_Engineering/
-    ClearBank_Director_of_Engineering.html
-    ClearBank_Director_of_Engineering.pdf
-  Google_Cloud_OCE_Manager/
-    Google_Cloud_OCE_Manager.html
-    Google_Cloud_OCE_Manager.pdf
+  ClearBank_HR_Director/
+    ClearBank_HR_Director.html
+    ClearBank_HR_Director.pdf
+  Google_HRBP/
+    Google_HRBP.html
+    Google_HRBP.pdf
 ```
 
 ## Phases
